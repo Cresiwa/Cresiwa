@@ -15,8 +15,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Cresiwa/Cresiwa/blob/output/snake.svg" alt="Snake animation" />
 
 ###
